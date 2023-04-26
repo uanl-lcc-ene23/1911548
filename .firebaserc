@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "miapp-1911548": {
+      "hosting": {
+        "PIA-SFOTIPY": [
+          "miapp-1911548"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "miapp-1911548"
+  }
+}
