@@ -1,0 +1,16 @@
+ion-title
+{
+    text-align: left;
+    font-size: 40px;
+}
+  
+ion-input
+{
+    border: solid 5px grey;
+    border-radius: 40px;
+}
+
+ion-label
+{
+    color: rgb(20,20,20);
+}
